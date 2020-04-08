@@ -1,6 +1,4 @@
 const mongoose = require('mongoose') ;
-const valid = require('validator') ;
-const bc = require('bcryptjs') ;
 const jwt = require('jsonwebtoken') ;
 
 const HeroSchema = new mongoose.Schema({
@@ -109,21 +107,17 @@ const HeroSchema = new mongoose.Schema({
 	timestamps: true
 }) ;
 
-// HeroSchema.statics.findByEmail = async function(email, password){
-// 	const Hero = await Hero.findOne( {email} )
-// 	// Same as
-// 	// Hero.findOne( {email: email})
-// 	if(!Hero)
-// 		throw new Error("Hero with this Email does not exist") ;
-// 	else
-// 	{
-// 		const isMatch = bc.compareSync(password, Hero.password) ;
-// 		if(!isMatch)
-// 			throw new Error("Password does not match") ;
-// 		else
-// 			return Hero ;
-// 	}
-// }
+HeroSchema.statics.findByName = async function(name){
+	// Same as
+	// const Hero = await Hero.findOne( {name: name})
+	const Hero = await this.findOne( {name} )
+	
+	
+	if(!Hero)
+		throw new Error("Hero with this name does not exist") ;
+	else
+		return Hero ;
+}
 
 // HeroSchema.methods.generateAuthToken = function(){
 // 	const token = jwt.sign({_id: this._id.toString()}, process.env.JWT_SECRET) ;
