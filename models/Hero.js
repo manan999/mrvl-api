@@ -1,5 +1,4 @@
 const mongoose = require('mongoose') ;
-const jwt = require('jsonwebtoken') ;
 
 const HeroSchema = new mongoose.Schema({
 	name: {
@@ -12,6 +11,10 @@ const HeroSchema = new mongoose.Schema({
 		type: String,
 		trim: true,
 		unique: true,
+		required: true,
+	},
+	rank : {
+		type: Number,
 		required: true,
 	},
 	link : {
@@ -97,39 +100,18 @@ const HeroSchema = new mongoose.Schema({
 				throw new Error('Speed value range incorrect') ;
 		}
 	},
-	// tokens: [{
-	// 	token: {
-	// 		type: String, 
-	// 		required: true 
-	// 	}
-	// }],
 }, { 
 	timestamps: true
 }) ;
 
 HeroSchema.statics.findByName = async function(name){
-	// Same as
-	// const Hero = await Hero.findOne( {name: name})
 	const Hero = await this.findOne( {name} )
-	
 	
 	if(!Hero)
 		throw new Error("Hero with this name does not exist") ;
 	else
 		return Hero ;
 }
-
-// HeroSchema.methods.generateAuthToken = function(){
-// 	const token = jwt.sign({_id: this._id.toString()}, process.env.JWT_SECRET) ;
-// 	this.tokens = this.tokens.concat({ token }) ;
-// 	this.save() ;
-// 	return token ;
-// }
-
-// HeroSchema.methods.uploaded = function(){
-// 	this.uploads = this.uploads + 1 ;
-// 	this.save() ;
-// }
 
 //Comment this method while debugging
 HeroSchema.methods.toJSON = function(){

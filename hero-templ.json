@@ -1,0 +1,17 @@
+{	"name":"Black Bolt",
+	"realname":"Blakagar Boltagan",
+	"gender":"Male",
+	"origin":"Inhuman",
+	"country":"Attilan",
+	"universe":"Prime",
+	"first":"Fantastic Four #45 (1964)",
+	"intel":{"$numberInt":"84"},
+	"stren":{"$numberInt":"78"},
+	"speed":{"$numberInt":"85"},
+	"combt":{"$numberInt":"94"},
+	"tough":{"$numberInt":"75"},
+	"magic":{"$numberInt":"30"},
+	"biglink":"https://raw.githubusercontent.com/manan999/images/master/marvel/bb_big.webp",
+	"link":"https://raw.githubusercontent.com/manan999/images/master/marvel/bb.webp",
+	"bio":"Subjected to the mutagenic Terrigen Mists while still an embryo, Bolt was born with strange powers surpassing even the Inhumans' norm. Now, The king of the <b>Inhumans</b>, <b>Black Bolt</b> is cursed and blessed with a quasi-sonic voice. He must remain forever silent, for with the slightest whisper he can destroy cities, and with the loudest screams he can level continents."
+}

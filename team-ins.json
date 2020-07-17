@@ -1,0 +1,210 @@
+[
+{
+"name": "Avengers",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avenger.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "X - Men",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/x-men.jpg",
+"bio": "Realizing mutants were the next step in human evolution, <b>Professor Charles Xavier</b> gathered gifted teenagers to be his first class of students. His goal was to protect and educate the next generation of homo superior, while pursuing a dream of harmony. <br/> That peaceful dream has been challenged over and over, either by evil mutants or human bigotry. As costumed heroes, the original team fought for a world that hated and feared them. Their struggle has continued with each subsequent generation of mutants. The dreamer may be gone, but the X-Men live on.",
+"leader": ["Magneto", "Wolverine"],
+"notable": ["Mystique", "Sabretooth"],
+"member" : ["Spider-Man", "Wolverine", "Wonder Man", "Deadpool", "Magneto", "Sabretooth", "Dark Phoenix", "Mystique", "Juggernaut", "White Queen"] 
+},
+{
+"name": "Fantastic Four",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/f4.jpg",
+"bio": "When Scientist <b>Reed Richards</b> and his friend, pilot <b>Ben Grimm</b> decided to test an unauthorised space rocket, alongwith his girlfriend, <b> Susan Storm</b> and her brother, <b>Johny Storm</b>. However, the ship was bombarded with cosmic radiation and crash landed back to earth. <Br/> They discovered that radiation exposure gave them Supernatural powers and decided to use them for the good of human-kind. Hence they became, <b>Marvel&apos;s Super-Hero Family: The Fantastic 4</b>",
+"leader": ["Mr. Fantastic", "Invisible Woman"],
+"notable": ["The Thing", "Human Torch", "Ant-Man", "Black Panther", "Namor", "She-Hulk"],
+"member" : ["Spider-Man", "Wolverine", "Ghost Rider", "Thing", "She-Hulk", "Mr. Fantastic", "Invisible Woman", "Ant Man 2", "Black Panther", "Power Man", "Human Torch", "Dr. Doom"] 
+},
+{
+"name": "Inhumans",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/inhum.jpg",
+"bio": "",
+"leader": [],
+"notable": ["Ms. Marvel"],
+"member" : ["Quicksilver", "Human Torch", "Ms. Marvel", "Ronan"] 
+},
+{
+"name": "Guardians of Galaxy",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/gotg.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "New Avengers",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/new_av.jpg",
+"bio": "After original <b>Avengers</b> disbanded, the <b>New Avengers</b> were assembled by chance during the breakout in super-criminal prison, <b>The Raft</b>. <b>Daredevil</b>, <b>Spider-Man</b>, <b>Luke Cage</b>, <b>Iron Man</b> and <b>Captain America</b> all arrived to help. <br/>Captain America convinced Iron Man to form a new team of Avengers without their own headquarters, vehicles, equipment, or payroll. The team would simply exist to deal with tasks that no single superhero could handle. ",
+"leader": "Power Man, Captain America, Captain Marvel",
+"notable": "Iron Man, Spider-Man, Daredevil, Iron Fist, Dr. Strange, Winter Soldier",
+"member" : [] 
+},
+{
+"name": "Brotherhood",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/bh.jpg",
+"bio": "The <b>Brotherhood of Mutants</b> was a group dedicated to the cause of mutant superiority over humans. Throughout its various incarnations, the Brotherhood's agenda aimed towards either forcing the human race under the will of mutants or destroying humanity altogether. <br/> The original Brotherhood of Mutants was formed by <b>Magneto</b> shortly after the creation of <b>X - Men</b> because Magneto was against their ideas of peace with humans. ",
+"leader": "Magneto",
+"notable": "Mystique, Sabretooth, Juggernaut",
+"member" : [] 
+},
+{
+"name": "Illuminati",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/illu.jpg",
+"bio": "The Illuminati were a covert think-tank originally consisting of <b>Mr. Fantastic, Iron Man, Professor X, Doctor Strange, Black Bolt</b> and <b>Namor</b>. They met in secret for a number of years sharing information and strategy, operating relatively successfully initially, despite their unique traits and considerable differences in nearly every way. <br/> Each of the members represented a portion of Earth's Superhero community and were experts or leaders in their respective domains.",
+"leader": "Iron Man, Black Panther",
+"notable": "Mr. Fantastic, Dr. Strange",
+"member" : [] 
+},
+{
+"name": "S.H.I.E.L.D.",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/shield.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Defenders",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/def1.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Thunderbolts",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/thunder.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Cabal",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/cabal.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Hydra",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/hydra.png",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Hand",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/hand.png",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Kree",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/kree.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Skrull",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/skrull.png",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "West Coast Avengers",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/wc_av.png",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Dark Avengers",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/dark_Av.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Mighty Avengers",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/mavg.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Avengers Unity Division",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avud.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Lady Liberators",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/ll.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Heroes For Hire",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/hh.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Infinity Watch",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/iwatch.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "A.I.M.",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/aim.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "Masters Of Evil",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/MoE.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+},
+{
+"name": "The Future Foundation",
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/ff.jpg",
+"bio": "",
+"leader": [],
+"notable": [],
+"member" : [] 
+}
+]

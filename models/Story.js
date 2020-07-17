@@ -1,5 +1,4 @@
 const mongoose = require('mongoose') ;
-const jwt = require('jsonwebtoken') ;
 
 const StorySchema = new mongoose.Schema({
 	name: {
@@ -22,12 +21,6 @@ const StorySchema = new mongoose.Schema({
 		type: String,
 		trim: true,
 	},
-	// tokens: [{
-	// 	token: {
-	// 		type: String, 
-	// 		required: true 
-	// 	}
-	// }],
 }, { 
 	timestamps: true
 }) ;

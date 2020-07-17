@@ -6,7 +6,6 @@ const heroHandler = require('./handlers/hero.js') ;
 const villainHandler = require('./handlers/villain.js') ;
 // const teamHandler = require('./handlers/team.js') ; 
 // const storyHandler = require('./handlers/story.js') ;
-// const uploadHandler = require('./handlers/upload.js') ;
 
 const app = exp() ;
 
@@ -17,7 +16,6 @@ app.use(heroHandler) ;
 app.use(villainHandler) ;
 // app.use(teamHandler) ;
 // app.use(storyHandler) ;
-// app.use(uploadHandler) ;
 
 app.get('/', (req, res) => {
 	console.log(req.body) ;

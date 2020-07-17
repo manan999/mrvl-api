@@ -1,7 +1,6 @@
 const exp = require('express') ;
 
 const {Hero} = require('../models/Hero.js') ;
-// const auth = require('../src/auth.js') ;
 
 const router = new exp.Router() ;
 
@@ -11,7 +10,8 @@ router.get('/hero', (req, res) => {
 
   	if(limit)
   	{ 	
-  		Hero.find({}, "name realname link biglink").limit(parseInt(limit))
+  		Hero.find({}, "name realname link biglink")
+  		.limit(parseInt(limit)).sort('rank')
     	.then ( data => {
 		if(data.length)
 			res.json(data) ;
@@ -33,7 +33,7 @@ router.get('/hero', (req, res) => {
 	}
  	else
   	{
-	    Hero.find({}, "name realname link biglink")
+	    Hero.find({}, "name realname link biglink").sort('rank')
 		.then(heroes => res.json(heroes))
 		.catch(err => res.status(404).json(err.message)) ;
   	}
@@ -49,7 +49,7 @@ router.get('/bigh', (req, res) => {
 
   	if(limit)
   	{ 	
-  		Hero.find({}).limit(parseInt(limit))
+  		Hero.find({}).limit(parseInt(limit)).sort('rank')
     	.then ( data => {
 		if(data.length)
 			res.json(data) ;
@@ -71,7 +71,7 @@ router.get('/bigh', (req, res) => {
 	}
  	else
   	{
-	    Hero.find({})
+	    Hero.find({}).sort('rank')
 		.then(heroes => res.json(heroes))
 		.catch(err => res.status(404).json(err.message)) ;
   	}
