@@ -1,210 +1,218 @@
 [
 {
 "name": "Avengers",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avenger.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 1 ,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avenger.webp",
+"bio": "The <b>Avengers are Earth's mightiest heroes</b> and foremost super-team... &quot;There came a day, a day unlike any other, when Earth's mightiest heroes found themselves united against a common threat. On that day, the <b>Avengers were born</b> - to fight the foes no single super hero could withstand! Heed the call, then - for now, the <b>Avengers Assemble!</b>&quot;",
+"leader": ["Captain America", "Iron Man", "Thor", "Black Widow", "Falcon", "Ant Man", "Scarlet Witch", "Black Panther", "Captain Marvel"],
+"notable": ["Hawkeye", "Hulk", "Vision", "Quicksilver", "Wasp", "Dr. Strange", "Wolverine", "Spider-Man", "Mr. Fantastic", "Namor", "Ant Man 2", "Spider-Man 2", "Ms. Marvel", "Thor 2", "War Machine", "Black Bolt", "Professor X", "Storm", "Winter Soldier", "Daredevil", "Dr. Doom"],
+"member" : ["Captain America", "Iron Man", "Thor", "Black Widow", "Falcon", "Ant Man", "Scarlet Witch", "Hawkeye", "Hulk", "Vision", "Quicksilver", "Wasp", "Black Knight", "Black Panther", "Captain Marvel", "Dr. Strange", "Wolverine", "Spider-Man", "Mr. Fantastic", "Namor", "Ant Man 2", "Spider-Man 2", "Ms. Marvel", "Thor 2", "War Machine", "Black Bolt", "Professor X", "Storm", "Ghost Rider", "Beast", "Daredevil", "Iron Fist", "Blade", "She-Hulk", "Red-Hulk", "Hawkeye", "Gwenpool", "Sentry", "Winter Soldier", "Captain Britain", "Captain Mar-Vell", "Nick Fury", "Maria Hill", "Hercules", "Hyperion", "Invisible Woman", "Shuri", "Mantis", "Madame Web", "Moondragon", "Mockingbird", "Nova", "Nova 2", "Crystal", "Quake", "Quasar", "Spiderwoman", "Sandman", "Tigra", "Starhawk", "Agent Venom", "Yondu", "White Tiger", "Adam Warlock", "Carnage", "Power Man", "Hulk 2", "Dr. Doom", "Enchantress", "White Queen", "Dr. Voodoo", "Havok", "Human Torch", "Human Torch 2", "Thing", "Hulkling", "Power Woman", "Loki", "Black Bolt", "Medusa", "Kang Conqueror", "Moon Knight", "Mystique", "Sabretooth", "Rogue", "Shang-Chi", "Speed", "Dr. Octopus", "Squirrel Girl", "Taskmaster", "Valkyrie", "Wiccan", "Wonder Man", "X-23", "Wong"] 
 },
 {
 "name": "X - Men",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/x-men.jpg",
-"bio": "Realizing mutants were the next step in human evolution, <b>Professor Charles Xavier</b> gathered gifted teenagers to be his first class of students. His goal was to protect and educate the next generation of homo superior, while pursuing a dream of harmony. <br/> That peaceful dream has been challenged over and over, either by evil mutants or human bigotry. As costumed heroes, the original team fought for a world that hated and feared them. Their struggle has continued with each subsequent generation of mutants. The dreamer may be gone, but the X-Men live on.",
-"leader": ["Magneto", "Wolverine"],
-"notable": ["Mystique", "Sabretooth"],
-"member" : ["Spider-Man", "Wolverine", "Wonder Man", "Deadpool", "Magneto", "Sabretooth", "Dark Phoenix", "Mystique", "Juggernaut", "White Queen"] 
+"rank" : 2,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/x-men.webp",
+"bio": "Realizing mutants were the next step in human evolution, <b>Professor Charles Xavier</b> gathered gifted teenagers to be his first class of students. His goal was to protect and educate the next generation of homo superior, while pursuing a dream of harmony. <br/> That peaceful dream has been challenged over and over, either by evil mutants or human bigotry. As costumed heroes, the has team fought for a world that hated and feared them. ",
+"leader": ["Magneto", "Wolverine", "Cyclops", "Phoenix", "Storm", "Professor X", "Ice Man", "Beast", "Angel"],
+"notable": ["Mystique", "Sabretooth", "Colossus", "Nightcrawler", "Psylocke", "Gambit", "Rogue"],
+"member" : ["Spider-Man", "Wolverine", "Wonder Man", "Deadpool", "Magneto", "Sabretooth", "Dark Phoenix", "Mystique", "Juggernaut", "White Queen", "Cyclops", "Phoenix", "Storm", "Professor X", "Ice Man", "Beast", "Angel", "Colossus", "Nightcrawler", "Psylocke", "Gambit", "Rogue", "Havok", "Cable", "Vulcan", "Banshee", "Kitty Pryde", "Magik", "Polaris", "X-23", "Bishop", "Cloak", "Dagger", "Namor", "Fantomex", "Jubilee", "Pyro", "Warpath", "Spider-Man", "Deadpool"] 
 },
 {
 "name": "Fantastic Four",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/f4.jpg",
+"rank": 3,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/f4.webp",
 "bio": "When Scientist <b>Reed Richards</b> and his friend, pilot <b>Ben Grimm</b> decided to test an unauthorised space rocket, alongwith his girlfriend, <b> Susan Storm</b> and her brother, <b>Johny Storm</b>. However, the ship was bombarded with cosmic radiation and crash landed back to earth. <Br/> They discovered that radiation exposure gave them Supernatural powers and decided to use them for the good of human-kind. Hence they became, <b>Marvel&apos;s Super-Hero Family: The Fantastic 4</b>",
-"leader": ["Mr. Fantastic", "Invisible Woman"],
-"notable": ["The Thing", "Human Torch", "Ant-Man", "Black Panther", "Namor", "She-Hulk"],
-"member" : ["Spider-Man", "Wolverine", "Ghost Rider", "Thing", "She-Hulk", "Mr. Fantastic", "Invisible Woman", "Ant Man 2", "Black Panther", "Power Man", "Human Torch", "Dr. Doom"] 
+"leader": ["Mr. Fantastic", "Thing", "Invisible Woman"],
+"notable": ["Human Torch", "Ant Man 2", "Black Panther", "Namor", "She-Hulk"],
+"member" : ["Spider-Man", "Wolverine", "Ghost Rider", "Thing", "She-Hulk", "Mr. Fantastic", "Invisible Woman", "Ant Man 2", "Black Panther", "Power Man", "Human Torch", "Dr. Doom", "Namor", "Ice Man", "Medusa", "Power Man", "Crystal", "Storm", "Tigra"] 
 },
 {
 "name": "Inhumans",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/inhum.jpg",
-"bio": "",
-"leader": [],
+"rank" : 5,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/inhum.webp",
+"bio": "Millions of years ago, the alien race known as <b>Kree visited Earth and experimented with a group of primitive humans. They became known as <b>The Inhumans</b>, an advanced sub-species of the human race who gain their powers through exposure to <b>Terrigen Mist</b>. Although they were first believed to only exist in their city of Attilan, today, Inhumans are a unique species living alongside their human brethren, mutants, aliens, and others.",
+"leader": ["Black Bolt", "Medusa"],
 "notable": ["Ms. Marvel"],
-"member" : ["Quicksilver", "Human Torch", "Ms. Marvel", "Ronan"] 
+"member" : ["Black Bolt", "Medusa", "Ms. Marvel", "Quake", "Crystal", "Gorgon", "Karnak", "Triton", "Lockjaw", "Maximus"] 
 },
 {
 "name": "Guardians of Galaxy",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/gotg.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 4,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/gotg.webp",
+"bio": "Stuck in a Kree Prison, <b>Star-Lord</b> banded with some other prison mates like his old friend <b>Rocket Raccoon</b>, Sentient-Tree <b>Groot</b>, <b>Drax, Gamora and Adam Warlock</b> to raise voice against galactic injustice and perform inter-galactic covert operations. On numerous times, they have stood against the Kree and have joined together with Avengers to fight <b>Thanos</b>",
+"leader": ["Star-Lord", "Groot", "Rocket Raccoon"],
+"notable": ["Drax", "Gamora", "Mantis", "Adam Warlock", "Captain Marvel", "Beta Ray Bill", "Iron Man"],
+"member" : ["Star-Lord", "Groot", "Rocket Raccoon", "Drax", "Gamora", "Mantis", "Adam Warlock", "Captain Marvel", "Beta Ray Bill", "Iron Man", "Nebula", "Ant Man 2", "Nova 2", "Nova", "Lockjaw", "Moondragon", "Kitty Pryde", "Agent Venom", "Thing", "Quasar", "Starhawk"] 
 },
 {
 "name": "New Avengers",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/new_av.jpg",
+"rank" : 6,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/new_av.webp",
 "bio": "After original <b>Avengers</b> disbanded, the <b>New Avengers</b> were assembled by chance during the breakout in super-criminal prison, <b>The Raft</b>. <b>Daredevil</b>, <b>Spider-Man</b>, <b>Luke Cage</b>, <b>Iron Man</b> and <b>Captain America</b> all arrived to help. <br/>Captain America convinced Iron Man to form a new team of Avengers without their own headquarters, vehicles, equipment, or payroll. The team would simply exist to deal with tasks that no single superhero could handle. ",
-"leader": "Power Man, Captain America, Captain Marvel",
-"notable": "Iron Man, Spider-Man, Daredevil, Iron Fist, Dr. Strange, Winter Soldier",
-"member" : [] 
+"leader": ["Power Man", "Captain America", "Captain Marvel"],
+"notable": ["Iron Man", "Spider-Man", "Daredevil", "Dr. Strange", "Wolverine", "Winter Soldier"],
+"member" : ["Power Man", "Captain America", "Captain Marvel", "Iron Man", "Spider-Man", "Daredevil", "Iron Fist", "Dr. Strange", "Winter Soldier", "Hawkeye", "Sentry", "Thing", "Spiderwoman", "Wolverine", "Mockingbird", "Power Woman", "Dr. Voodoo", "Daimon Hellstrom", "Squirrel Girl", "Wong"] 
 },
 {
 "name": "Brotherhood",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/bh.jpg",
+"rank" : 7,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/bh.webp",
 "bio": "The <b>Brotherhood of Mutants</b> was a group dedicated to the cause of mutant superiority over humans. Throughout its various incarnations, the Brotherhood's agenda aimed towards either forcing the human race under the will of mutants or destroying humanity altogether. <br/> The original Brotherhood of Mutants was formed by <b>Magneto</b> shortly after the creation of <b>X - Men</b> because Magneto was against their ideas of peace with humans. ",
-"leader": "Magneto",
-"notable": "Mystique, Sabretooth, Juggernaut",
-"member" : [] 
+"leader": ["Magneto", "Mystique"],
+"notable": ["Sabretooth", "Professor X", "Scarlet Witch", "Quicksilver"],
+"member" : ["Magneto", "Mystique", "Sabretooth", "Professor X", "Scarlet Witch", "Quicksilver", "Juggernaut", "Toad", "Pyro", "Blob", "Shocker", "Mastermind", "Rogue", "Beast"]
 },
 {
 "name": "Illuminati",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/illu.jpg",
+"rank" : 8,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/illu.webp",
 "bio": "The Illuminati were a covert think-tank originally consisting of <b>Mr. Fantastic, Iron Man, Professor X, Doctor Strange, Black Bolt</b> and <b>Namor</b>. They met in secret for a number of years sharing information and strategy, operating relatively successfully initially, despite their unique traits and considerable differences in nearly every way. <br/> Each of the members represented a portion of Earth's Superhero community and were experts or leaders in their respective domains.",
-"leader": "Iron Man, Black Panther",
-"notable": "Mr. Fantastic, Dr. Strange",
-"member" : [] 
+"leader": ["Iron Man", "Mr. Fantastic"],
+"notable": ["Dr. Strange", "Black Panther", "Black Bolt", "Captain America", "Professor X", "Namor"],
+"member" : ["Iron Man", "Mr. Fantastic", "Dr. Strange", "Black Panther", "Black Bolt", "Captain America", "Professor X", "Namor", "Captain Britain", "Medusa", "Ant Man", "Hulk", "Beast", "Hulk 2"] 
 },
 {
 "name": "S.H.I.E.L.D.",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/shield.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 9,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/shield.webp",
+"bio": "<b>S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division)</b> is an international peacekeeping, law enforcement, and counter-terrorism agency sanctioned by the United Nations. Founded to combat technologically advanced threats on world security (specifically the menace of Hydra), they remained throughout the years on the front lines, fighting terrorism, supernatural threats and extraterrestrial menaces as an international intelligence agency.",
+"leader": ["Nick Fury", "Maria Hill", "Iron Man", "Captain America"],
+"notable": ["Black Widow", "Hawkeye", "Captain Marvel", "Hulk", "War Machine"],
+"member" : ["Nick Fury", "Maria Hill", "Iron Man", "Captain America", "Black Widow", "Hawkeye", "Captain Marvel", "Hulk", "War Machine", "Invisible Woman", "Taskmaster", "M.O.D.O.K.", "She-Hulk", "Spiderwoman", "Sentry", "Wolverine", "Wonder Man", "Agent Coulson", "Tigra"] 
 },
 {
 "name": "Defenders",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/def1.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 10,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/def1.webp",
+"bio": "<b>The Defenders</b> was a team of heroes first brought together by circumstance. The initial membership included <b>Dr. Strange, the Hulk, Namor the Submariner, and the Silver Surfer</b>. It all started when Dr. Strange gathered the Hulk, Namor, and the Silver Surfer to stop Yandroth's evil machine.Unlike other super-teams, these Defenders had no charter or by-laws, no permanent headquarters, no fixed roster, and little affection for each other.",
+"leader": ["Dr. Strange", "Beast"],
+"notable": ["Valkyrie", "Angel", "Black Panther", "Captain America", "Daredevil", "Hulk", "Namor", "Silver Surfer"],
+"member" : ["Dr. Strange", "Beast", "Valkyrie", "Angel", "Black Panther", "Captain America", "Black Knight", "Colossus", "Daredevil", "Falcon", "Ghost Rider", "Hawkeye", "Hercules", "Hulk", "Namor", "Silver Surfer", "She-Hulk", "Ice Man", "Power Man", "Iron Fist", "Moon Knight", "Thing", "Nova", "Wasp", "Wonder Man", "Ant Man", "Shuri", "Wong"] 
 },
 {
 "name": "Thunderbolts",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/thunder.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 11,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/thunder.webp",
+"bio": "What began as <b>Baron Zemo&apos;s</b> plan for world domination after the fall of <b>Masters of Evil</b>, became a superhero team comprised of super-villains seeking redemption. Despite the damage that Zemo had done for the Thunderbolts, those who remained loyal to their heroic lifestyle managed to turn what was once known as a hoax into one of the greatest and most interesting teams in the Marvel Universe",
+"leader": ["Baron Zemo", "Winter Soldier", "Green Goblin"],
+"notable": ["Power Man", "Hawkeye", "Black Widow", "Moonstone"],
+"member" : ["Baron Zemo", "Winter Soldier", "Green Goblin", "Power Man", "Hawkeye", "Black Widow", "Moonstone", "Ghost", "Bullseye", "Crossbones", "Dr. Octopus", "Iron Fist", "Boomerang", "Juggernaut", "Taskmaster", "Shocker", "Satana", "Whiplash", "Punisher", "Skaar"] 
 },
 {
 "name": "Cabal",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/cabal.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 12,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/cabal.webp",
+"bio": "During Acts of Vengeance, <b>Loki</b> grouped together <b>Doctor Doom, Magneto, Red Skull, Kingpin and Mandarin</b> in a bid to rid themselves of the nuisance of superheroes. The Cabal was revived by <b>Namor</b> after a falling out with <b>The Illuminati due</b> to Namor having destroyed Earth-4290001's Earth in order to save both universes, against the Illuminati's wishes.",
+"leader": ["Loki", "Namor", "Thanos"],
+"notable": ["Dr. Doom", "Magneto", "Red Skull", "Kingpin", "Mandarin"],
+"member" : ["Loki", "Namor", "Thanos", "Dr. Doom", "Magneto", "Red Skull", "Kingpin", "Mandarin", "Maker"] 
 },
 {
 "name": "Hydra",
+"rank" : 13,
 "link": "https://raw.githubusercontent.com/manan999/images/master/wp/hydra.png",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"bio": "<b>Hydra is a worldwide subversive organization dedicated to global domination. It has been around since several millenia. At its height, HYDRA was the most extensive, powerful, and dangerous extremist organization in history. The latest reincarnation was created out of the remnants of Nazi Germany and Imperial Japan. They have had various notable leaders like <b>Red Skull</b> and <b>Baron Zemo</b>",
+"leader": ["Red Skull", "Arnim Zola", "Baron Zemo"],
+"notable": ["Bullseye", "Crossbones"],
+"member" : ["Red Skull", "Arnim Zola", "Baron Zemo", "Gorgon", "Madame Hydra", "Viper", "Bullseye", "Crossbones"] 
 },
 {
 "name": "Hand",
+"rank" : 14,
 "link": "https://raw.githubusercontent.com/manan999/images/master/wp/hand.png",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
-},
-{
-"name": "Kree",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/kree.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
-},
-{
-"name": "Skrull",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/skrull.png",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"bio": "<b>The Hand</b> is an ancient mystical order of assassins founded in Japan. The Hand is a ninja clan and the more recent iteration of the cabal worshiping the Beast. They were originally a secret society formed in 1588 and dedicated to Japanese nationalism, but were corrupted. They are among the  greatest foes of heroes like <b>Daredevil</b>, <b>Elektra</b> and <b>Wolverine</b>(all part of the organization at some point).",
+"leader": ["Kingpin", "Elektra", "Mandarin", "Sabretooth"],
+"notable": ["Daredevil", "Wolverine", "Bullseye", "Mystique"],
+"member" : ["Kingpin", "Elektra", "Mandarin", "Sabretooth", "Daredevil", "Wolverine", "Bullseye", "Mystique", "Hulk", "Psylocke"] 
 },
 {
 "name": "West Coast Avengers",
+"rank" : 15,
 "link": "https://raw.githubusercontent.com/manan999/images/master/wp/wc_av.png",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"bio": "The West Coast Avengers was a team that branched off from the Avengers and settles in California in order to respond to threats on the West Coast in a more timely manner. During <b>Secret Wars</b>, most of the active avengers were kidnapped. The most experienced avenger <b>Vision</b>, declared himself the chairman of <b>Avengers</b> and established this second avengers team with <b>Hawkeye</b> as their leader.",
+"leader": ["Hawkeye", "Hawkeye 2", "Scarlet Witch"],
+"notable": ["Iron Man", "War Machine", "Ant Man", "Quicksilver", "Wasp", "Vision"],
+"member" : ["Hawkeye", "Hawkeye 2", "Scarlet Witch", "Iron Man", "War Machine", "Gwenpool", "Ant Man", "Mantis", "Mockingbird", "Quicksilver", "Wasp", "Vision", "Thing", "Tigra", "Wonder Man", "Spiderwoman"] 
 },
 {
 "name": "Dark Avengers",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/dark_Av.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 16,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/dark_Av.webp",
+"bio": "After the <b>Secret Invasion</b>, <b>Normal Osborn</b> became the director of <b>S.H.I.E.L.D.</b>, he renamed it as <b>H.A.M.M.E.R.</b>. To gain public trust, he transformed his members of the <b>Thunderbolts</b> into superheroes. <b>Bullseye</b> becoming <b>Hawkeye</b> and <b>Venom</b> acting as <b>Spider-Man</b> among others. The team has since become independent from Osborn's visions and mad quest for power.",
+"leader": ["Green Goblin", "Moonstone"],
+"notable": ["Venom", "Bullseye", "Power Man"],
+"member" : ["Green Goblin", "Power Man", "Moonstone", "Venom", "Bullseye", "Sentry", "Skaar"] 
 },
 {
 "name": "Mighty Avengers",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/mavg.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 17,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/mavg.webp",
+"bio": "<b>The Mighty Avengers</b> were formed in the wake of the Superhero Civil War as the New York unit of the 50-State Initiative. They were selected by <b>Tony Stark</b>, then Director of <b>S.H.I.E.L.D.</b> , from members of his Pro-Registration Superhero Unit to form &quot;the perfect team of Avengers&quot;. Starks aim was that, the Mighty Avengers would serve the world. He appointed <b>Captain Marvel</b> as the On-Field Commander",
+"leader": ["Iron Man", "Captain Marvel", "Ant Man"],
+"notable": ["Spider-Man", "Black Widow", "Hulk", "Quicksliver", "Scarlet Witch"],
+"member" : ["Iron Man", "Captain Marvel", "Ant Man", "Spider-Man", "Black Widow", "Hulk", "Quicksliver", "Scarlet Witch", "Spiderwoman", "Wonder Man", "Wasp", "Vision", "Sentry", "Hercules"] 
 },
 {
 "name": "Avengers Unity Division",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avud.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 18,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/avud.webp",
+"bio": "After the war between <b>the Avengers and the X-Men</b>, <b>Captain America</b> realized that the Avengers should have done more to help the mutant population. As a result, he formed a new sub-team of Avengers consisiting of both the original Avengers and mutants, in hopes of unifying mutants and humans as one. He chose <b>Havok</b> to lead his team and become the symbol to represent mutants as <b>Professor X and Cyclops</b> once did.",
+"leader": ["Captain America", "Havok", "Rogue"],
+"notable": ["Beast", "Deadpool", "Thor", "Spider-Man", "Scarlet Witch", "Wolverine"],
+"member" : ["Captain America", "Havok", "Rogue", "Beast", "Cable", "Deadpool", "Thor", "Spider-Man", "Scarlet Witch", "Wolverine", "Wasp", "Vision", "Wonder Man", "Quicksilver", "Sabretooth", "Human Torch", "Dr. Voodoo", "Elektra", "Dr. Strange", "Iron Fist", "Invisible Woman", "Human Torch 2", "Magneto", "Medusa"] 
 },
 {
 "name": "Lady Liberators",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/ll.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 19,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/ll.webp",
+"bio": "Originally a group of female adventurers manipulated by the <b>Enchantress</b>, the current incarnation was originally gathered by <b>She-Hulk</b> to hunt the <b>Red Hulk</b> and later reassembled to assist in humanitarian efforts. It was an all-female superhero team led by <b>Valkyrie</b> and formerly led by Amora the Enchantress and later She-Hulk.",
+"leader": ["She-Hulk", "Enchantress"],
+"notable": ["Valkyrie", "Storm", "Black Widow", "Wasp", "Captain Marvel"],
+"member" : ["She-Hulk", "Enchantress", "Valkyrie", "Storm", "Black Widow", "Wasp", "Invisible Woman", "Spiderwoman", "Medusa", "Scarlet Witch", "Tigra", "Captain Marvel", "Elektra", "Black Cat"] 
 },
 {
 "name": "Heroes For Hire",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/hh.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 20,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/hh.webp",
+"bio": "Heroes For Hire Inc. was a small business licensed by the state of New York which offered a full line of professional investigation and protection services which were given by superheroes. Heroes For Hire was owned by <b>Luke Cage and Daniel Rand</b>. It had offices on Park Avenue and paid employees. However, Heroes For Hire would not accept jobs involving extralegal activities",
+"leader": ["Power Man", "Iron Fist", "Human Torch 2"],
+"notable": ["Daredevil", "Punisher", "Spider-Man", "Ghost Rider", "Black Widow"],
+"member" : ["Power Man", "Iron Fist", "Daredevil", "Punisher", "Spider-Man", "Power Woman", "Ghost Rider", "White Tiger", "Human Torch 2", "Ant Man 2", "Black Knight", "She-Hulk", "Hercules", "Quicksilver", "Black Cat", "Elektra", "Moon Knight", "Falcon", "Deadpool", "Dr. Voodoo", "Daimon Hellstrom", "Satana", "Shang-Chi"] 
 },
 {
 "name": "Infinity Watch",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/iwatch.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 21,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/iwatch.webp",
+"bio": "After the Living Tribunal's decree that the Infinity Gauntlet could no longer be used in conjunction, <b>Adam Warlock</b> decided to separate the gems among a set of custodians. Warlock kept the Soul Gem, gave the Time Gem to <b>Gamora</b>, the Space Gem to Pip the Troll, the Power Gem to <b>Drax</b> and the Mind Gem to <b>Moondragon</b>, he secretly also bestowed the Reality Gem to <b>Thanos</b>.The team was disbanded after the gems ended up in the Ultraverse",
+"leader": ["Adam Warlock", "Dr. Strange"],
+"notable": ["Thanos", "Star-Lord", "Captain Marvel", "Silver Surfer"],
+"member" : ["Adam Warlock", "Dr. Strange", "Thanos", "Gamora", "Drax", "Star-Lord", "Captain Marvel", "Moondragon", "Silver Surfer"] 
 },
 {
 "name": "A.I.M.",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/aim.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank" : 22,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/aim.webp",
+"bio": "<b>Advanced Idea Mechanics (A.I.M.)</b> is a privately funded organization of a group of brilliant scientists whose sole dedication is to acquire and develop power through technology. Their goal is to use this power to overthrow the governments of the world. They supply arms and technology to radicals and subversive organizations in order to foster a violent technological revolution of society while making a profit.",
+"leader": ["M.O.D.O.K.", "Scientist Supreme"],
+"notable": ["Hawkeye", "Red-Hulk", "Taskmaster", "Black Widow", "Arnim Zola", "Red Skull"],
+"member" : ["M.O.D.O.K.", "Hawkeye", "Red-Hulk", "Taskmaster", "Black Widow", "Scientist Supreme", "Arnim Zola", "Red Skull", "Wiccan", "Hulkling", "Speed", "White Tiger", "Squirrel Girl", "Ghost"] 
 },
 {
 "name": "Masters Of Evil",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/MoE.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
+"rank": 23,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/MoE.webp",
+"bio": "<b>The Masters of Evil</b> were a team of supervillains. There have been eight incarnations of the Masters of Evil, accumulating dozens of members in total. Leaders have included Baron Zemo, Ultron, the Mandarin, Klaw, Doctor Octopus, the Hood. The Masters of Evil were primarily opposed to the <b>Avengers</b>, although they also battled the <b>Thunderbolts</b> (ironically consisting of former Masters of Evil) and the <b>Guardians of the Galaxy</b>.",
+"leader": ["Ultron", "Dr. Octopus", "Baron Zemo" ],
+"notable": ["Enchantress", "Wonder Man", "The Hood"],
+"member" : ["Ultron", "Dr. Octopus", "Baron Zemo", "Enchantress", "Wonder Man", "Black Knight", "Boomerang", "Crimson Cowl", "Executioner", "Daimon Hellstrom", "The Hood", "Shocker", "Scorpion", "Klaw", "Man-Ape", "Whiplash"] 
 },
 {
-"name": "The Future Foundation",
-"link": "https://raw.githubusercontent.com/manan999/images/master/wp/ff.jpg",
-"bio": "",
-"leader": [],
-"notable": [],
-"member" : [] 
-}
+"name": "Legion Accursed",
+"rank": 24,
+"link": "https://raw.githubusercontent.com/manan999/images/master/wp/cs.webp",
+"bio": "Mephisto sent his agent Bitterhorn out to Earth to recruit an army of super-villains to battle the Beyonder. Bitterhorn began by making deals with the Juggernaut, Electro, Baron Mordo, Absorbing Man and Titania. With each deal made, a handshake was made marking each villain connecting them to the Beyonder's bane.",
+"leader": ["Mephisto"],
+"notable": ["Dr. Doom", "Baron Mordo", "Kang Conqueror", "Ultron"],
+"member" : ["Mephisto", "Dr. Doom", "Baron Mordo", "Kang Conqueror", "Abomination", "Hopgoblin", "Juggernaut", "Kraven", "Rhino", "Vulture", "White Queen", "Electro", "Ultron"] 
+},
 ]

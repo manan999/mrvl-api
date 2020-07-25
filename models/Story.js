@@ -4,20 +4,18 @@ const StorySchema = new mongoose.Schema({
 	name: {
 		type: String,
 		trim: true,
-		unique: true,
 		required: true
+	},
+	rank: {
+		type: Number,
+		required: true,
 	},
 	descr: {
 		type: String,
 		trim: true,
-		unique: true,
 		required: true,
 	},
 	link : {
-		type: String,
-		trim: true,
-	},
-	biglink : {
 		type: String,
 		trim: true,
 	},
@@ -26,8 +24,6 @@ const StorySchema = new mongoose.Schema({
 }) ;
 
 StorySchema.statics.findByName = async function(name){
-	// Same as
-	// const Story = await Story.findOne( {name: name})
 	const Story = await this.findOne( {name} )
 	
 	if(!Story)

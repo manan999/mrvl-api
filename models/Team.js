@@ -17,7 +17,7 @@ const TeamSchema = new mongoose.Schema({
 	},
 	leader: [String],
 	notable: [String],
-	members: [String],
+	member: [String],
 }, { 
 	timestamps: true
 }) ;

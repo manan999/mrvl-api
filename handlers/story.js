@@ -1,52 +1,38 @@
+const exp = require('express') ;
 
-// app.get('/story', (req, res) => story.handle(req, res, db) ) ;
-// app.post('/story', (req, res) => insert.handle(req, res, db, 'story') ) ;
-// app.put('/story', (req, res) => update.handle(req, res, db, 'story') ) ;
-// app.delete('/story', (req, res) => del.handle(req, res, db, 'story') ) ;
+const Story = require('../models/Story.js') ;
 
-// const handle = (req, res, db) => {
-// 	const { limit, name } = req.query ;
-// 	console.log('story requested') ;
+const router = new exp.Router() ;
 
-//   	if(limit)
-//   	{ 	db.select('*').from('story')
-//   		.orderBy('id').limit(limit)
-//     	.then ( data => {
-// 		if(data.length)
-// 			res.json(data) ;
-// 		else
-// 			res.status(404).json("error fetching story data") ;
-//     	})
-// 		.catch(err => res.status(404).json("error fetching story")) ;
-// 	}
-  
-//   	else if(name)
-// 	{
-//    		db.where('story.name', name).select('*')
-//    		.from('story').orderBy('id')
-// 	    .then( data => {
-// 	    if(data.length)
-// 			res.json(data) ;
-// 	    else
-// 			res.status(404).json("error fetching story data") ;
-//     	})
-// 		.catch(err => res.status(404).json("error fetching story")) ;
-// 	}
+router.get('/story', (req, res) => {
+	const { limit, name } = req.query ;
+	console.log('Story requested') ;
 
-//  	else
-//   	{
-// 	    db.select('*').from('story').orderBy('id')
-// 	    .then( data => {
-// 	    if(data.length)
-// 			res.json(data) ;
-// 	    else
-// 			res.status(404).json("error fetching story data") ;
-//     	})
-// 		.catch(err => res.status(404).json("error fetching story")) ;
-//   	}
-// }
+  	if(limit)
+  	{ 	Story.find({}).limit(parseInt(limit)).sort('rank')
+    	.then ( data => {
+		if(data.length)
+			res.json(data) ;
+		else
+			res.status(404).json("error fetching Story data") ;
+    	})
+		.catch(err => res.status(404).json(err.message)) ;
+	}
+  	else if(name)
+	{	Story.findByName(name)
+	    .then( data => {
+	    if(data.name)
+			res.json(data) ;
+	    else
+			res.status(404).json("error fetching Story data") ;
+    	})
+		.catch(err => res.status(404).json(err.message) ) ;
+	}
+ 	else
+  	{ 	Story.find({}).sort('rank')
+		.then(heroes => res.json(heroes))
+		.catch(err => res.status(404).json(err.message)) ;
+  	}
+}) ;
 
-// module.exports = {
-// 	handle : handle ,
-	
-// } ;
+module.exports = router ;

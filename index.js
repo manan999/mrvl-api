@@ -4,8 +4,8 @@ const cors = require('cors') ;
 require('./src/connect.js') ;
 const heroHandler = require('./handlers/hero.js') ;
 const villainHandler = require('./handlers/villain.js') ;
-// const teamHandler = require('./handlers/team.js') ; 
-// const storyHandler = require('./handlers/story.js') ;
+const teamHandler = require('./handlers/team.js') ; 
+const storyHandler = require('./handlers/story.js') ;
 
 const app = exp() ;
 
@@ -14,8 +14,8 @@ app.use(cors()) ;
 
 app.use(heroHandler) ;
 app.use(villainHandler) ;
-// app.use(teamHandler) ;
-// app.use(storyHandler) ;
+app.use(teamHandler) ;
+app.use(storyHandler) ;
 
 app.get('/', (req, res) => {
 	console.log(req.body) ;
