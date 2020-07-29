@@ -5,13 +5,6 @@ const {Hero, Villain} = require('../models/Hero.js') ;
 
 const router = new exp.Router() ;
 
-function compare(a, b){
-  if (a.rank < b.rank) return -1;
-  if (b.rank > a.rank) return 1;
-
-  return 0;
-}
-
 router.get('/team', (req, res) => {
 	const { limit, name } = req.query ;
 	console.log('team requested') ;
@@ -54,18 +47,18 @@ router.get('/tmem', (req, res) => {
     .then( data => {
     if(data.name)
     {	resp = data ;
-		return Hero.find({ name : { $in: data.member} }) ;
+		return Hero.find({ name : { $in: data.member} }).sort('rank') ;
     }
     else
 		res.status(404).json("error fetching team data") ;
 	})
 	.then( data2 => {
-		members = [ ...members, ...data2]
-		return Villain.find({ name : { $in: resp.member} }) ;
+		members = [ ...members, data2]
+		return Villain.find({ name : { $in: resp.member} }).sort('rank') ; ;
 	})
 	.then( data3 => {
-		members = [ ...members, ...data3]
-		res.json(members.sort(compare)) ;
+		members = [ ...members, data3]
+		res.json(members) ;
 	})
 	.catch(err => res.status(404).json(err.message) ) ;
 }) ;
