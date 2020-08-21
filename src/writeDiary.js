@@ -21,7 +21,7 @@ const change = (str) => {
 			return page.save() ;
 		}
 	} )
-	.then( x => console.log(x) ) 
+	.then( x => console.log('Succesfully Changed') ) 
 	.catch( err => console.log(err) );
 }
 
