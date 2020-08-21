@@ -6,6 +6,7 @@ const heroHandler = require('./handlers/hero.js') ;
 const villainHandler = require('./handlers/villain.js') ;
 const teamHandler = require('./handlers/team.js') ; 
 const storyHandler = require('./handlers/story.js') ;
+const writeDiary = require('./src/writeDiary.js') ;
 
 const app = exp() ;
 
@@ -22,9 +23,11 @@ app.get('/', (req, res) => {
 	console.log(req.headers) ;
 	console.log(req.params) ;
 	console.log(req.url) ;
+	writeDiary('homeGet') ;
+
 	res.json("Please give the required endpoint for json data") ;
 }) ;
 
 app.listen(process.env.PORT || 8080, () => {
-	console.log("Server is Online" ) ;
+	console.log("Server is Online") ;
 }) ;

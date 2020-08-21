@@ -1,6 +1,7 @@
 const exp = require('express') ;
 
 const {Villain} = require('../models/Hero.js') ;
+const writeDiary = require('../src/writeDiary.js') ;
 
 const router = new exp.Router() ;
 
@@ -9,7 +10,7 @@ router.get('/vill', (req, res) => {
 	console.log('villain(s) requested') ;
 
   	if(limit)
-  	{ 	
+  	{ 	writeDiary('villainGet'+limit) ;
   		Villain.find({}, "name realname link biglink")
   		.limit(parseInt(limit)).sort('rank')
     	.then ( data => {
@@ -21,7 +22,7 @@ router.get('/vill', (req, res) => {
 		.catch(err => res.status(404).json(err)) ;
 	}
    	else if(name)
-	{
+	{	writeDiary('villainGet'+name) ;
    		Villain.findByName(name)
 	    .then( data => {
 	    if(data.name)
@@ -32,7 +33,7 @@ router.get('/vill', (req, res) => {
 		.catch(err => res.status(404).json(err.message) ) ;
 	}
  	else
-  	{
+  	{	writeDiary('villainGet') ;
 	    Villain.find({}, "name realname link biglink").sort('rank')
 		.then(vills => res.json(vills))
 		.catch(err => res.status(404).json(err.message)) ;
@@ -48,7 +49,7 @@ router.get('/bigv', (req, res) => {
 	console.log('villain(s) requested') ;
 
   	if(limit)
-  	{ 	
+  	{ 	writeDiary('villainDataGet'+limit) ;	
   		Villain.find({}).limit(parseInt(limit)).sort('rank')
     	.then ( data => {
 		if(data.length)
@@ -59,7 +60,7 @@ router.get('/bigv', (req, res) => {
 		.catch(err => res.status(404).json(err)) ;
 	}
    	else if(name)
-	{
+	{	writeDiary('villainDataGet'+name) ;
    		Villain.findByName(name)
 	    .then( data => {
 	    if(data.name)
@@ -70,7 +71,7 @@ router.get('/bigv', (req, res) => {
 		.catch(err => res.status(404).json(err.message) ) ;
 	}
  	else
-  	{
+  	{	writeDiary('villainDataGet') ;
 	    Villain.find({}).sort('rank')
 		.then(vills => res.json(vills))
 		.catch(err => res.status(404).json(err.message)) ;

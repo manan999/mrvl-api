@@ -2,6 +2,7 @@ const exp = require('express') ;
 
 const Team = require('../models/Team.js') ;
 const {Hero, Villain} = require('../models/Hero.js') ;
+const writeDiary = require('../src/writeDiary.js') ;
 
 const router = new exp.Router() ;
 
@@ -10,7 +11,8 @@ router.get('/team', (req, res) => {
 	console.log('team requested') ;
 
   	if(limit)
-  	{ 	Team.find({}).limit(parseInt(limit)).sort('rank')
+  	{ 	writeDiary('teamGet'+limit) ;
+  		Team.find({}).limit(parseInt(limit)).sort('rank')
     	.then ( data => {
 		if(data.length)
 			res.json(data) ;
@@ -20,7 +22,8 @@ router.get('/team', (req, res) => {
 		.catch(err => res.status(404).json(err.message)) ;
 	}
   	else if(name)
-	{	Team.findByName(name)
+	{	writeDiary('teamGet'+name) ;
+		Team.findByName(name)
 	    .then( data => {
 	    if(data.name)
 			res.json(data) ;
@@ -30,7 +33,8 @@ router.get('/team', (req, res) => {
 		.catch(err => res.status(404).json(err.message) ) ;
 	}
  	else
-  	{ 	Team.find({}).sort('rank')
+  	{ 	writeDiary('teamGet') ;
+  		Team.find({}).sort('rank')
 		.then(heroes => res.json(heroes))
 		.catch(err => res.status(404).json(err.message)) ;
   	}
@@ -43,6 +47,7 @@ router.get('/tmem', (req, res) => {
 	let members = [] ;
 	let resp = {} ;
 
+	writeDiary('teamMembersGet'+name) ;
 	Team.findByName(name)
     .then( data => {
     if(data.name)
@@ -68,7 +73,8 @@ router.get('/memt', (req, res) => {
 	console.log(`Teams for ${name} Requested` ) ;
 
 	if(name)
-	{	Team.find({ member : name }, "name link") 
+	{	writeDiary('membersTeamGet'+name) ;
+		Team.find({ member : name }, "name link") 
 	    .then( data => {
 	    if(data)
 			return res.json(data) ; 

@@ -19,6 +19,12 @@ const StorySchema = new mongoose.Schema({
 		type: String,
 		trim: true,
 	},
+	data : [{
+		hindi: String,
+		english: String,
+		img: String,
+		page: Number,	
+	}]
 }, { 
 	timestamps: true
 }) ;
