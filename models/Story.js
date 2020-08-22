@@ -23,7 +23,15 @@ const StorySchema = new mongoose.Schema({
 		hindi: String,
 		english: String,
 		img: String,
-		page: Number,	
+		page: Number,
+		links: {
+			hero: [String],
+			villain: [String],
+			team: [String],
+			char: [String],
+			equip: [String],
+			location: [String]
+		}	
 	}]
 }, { 
 	timestamps: true
