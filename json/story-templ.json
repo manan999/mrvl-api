@@ -7,8 +7,8 @@
     },
     "name": "Infinity Gauntlet",
     "link": "https://raw.githubusercontent.com/manan999/images/master/wp/ig.webp",
-    "descr": "",
-    "parts": [24,48],
+    "descr": "<b>Thanos</b> mounts the six <b>Infinity Gems</b> on his left glove to form <b>The Infinity Gauntlet</b>.  Each Gem grants its bearer complete mastery over one aspect of the multiverse:  <b>Time,  Space,  Mind,  Soul,  Reality,  and Power.</b>  Now all-powerful and desperate to win the affections of Death,  Thanos decides to offer the entity a gift of love by erasing half the sentient life in the universe.",
+    "parts": [0,24],
     "hero" : ["Silver Surfer", "Drax"],
     "villain" : ["Thanos", "Collector", "Grandmaster"],
     "char" : ["Lady Death", "In-Betweener", "Champion", "Gardener"],
@@ -315,6 +315,32 @@
             }   
         },
         {   "page": 24,
+            "hindi": "ab thanos ke pas sabhi 6 infinity gems the. mind, space, reality, time, soul aur power sab uske adheen the ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": ["Mind Gem", "Soul Gem", "Reality Gem", "Power Gem", "Space Gem", "Time Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 25,
+            "hindi": "ab thanos ke pas sabhi 6 infinity gems the. mind, space, reality, time, soul aur power sab uske adheen the ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": ["Mind Gem", "Soul Gem", "Reality Gem", "Power Gem", "Space Gem", "Time Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 26,
             "hindi": "ab thanos ke pas sabhi 6 infinity gems the. mind, space, reality, time, soul aur power sab uske adheen the ",
             "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
             "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
