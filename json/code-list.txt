@@ -1,0 +1,301 @@
+
+  spmp	|  "Spider-Man"
+  drss	|  "Dr. Strange"
+  woll	|  "Wolverine"
+  grdj	|  "Ghost Rider"
+  cpbb	|  "Captain Britain"
+  blwn	|  "Black Widow"
+  cpmc	|  "Captain Marvel"
+  thnb	|  "Thing"
+  scww	|  "Scarlet Witch"
+  anmh	|  "Ant Man"
+  thor	|  "Thor"
+  hulb	|  "Hulk"
+  wasj	|  "Wasp"
+  cpas	|  "Captain America"
+  qksp	|  "Quicksilver"
+  visn	|  "Vision"
+  flcs	|  "Falcon"
+  shkj	|  "She-Hulk"
+  mftr	|  "Mr. Fantastic"
+  ivws	|  "Invisible Woman"
+  anms	|  "Ant Man 2"
+  hwec	|  "Hawkeye"
+  wmcr	|  "War Machine"
+  irmt	|  "Iron Man"
+  blpt	|  "Black Panther"
+  mktm	|  "Moon Knight"
+  wsdb	|  "Winter Soldier"
+  pwml	|  "Power Man"
+  ddvm	|  "Daredevil"
+  irfd	|  "Iron Fist"
+  agvf	|  "Agent Venom"
+  hmtj	|  "Human Torch"
+  spmm	|  "Spider-Man 2"
+  rhkt	|  "Red-Hulk"
+  thoj	|  "Thor 2"
+  wdms	|  "Wonder Man"
+  mmkk	|  "Ms. Marvel"
+  ddpw	|  "Deadpool"
+  sqgd	|  "Squirrel Girl"
+  mkbd	|  "Mockingbird"
+  gmra  |  "Gamora"
+  stlo  |  "Star-Lord"
+  drax  |  "Drax"
+   |  "Black Bolt"
+   |  "Medusa"
+   |  "Silver Surfer"
+   |  "Groot"
+   |  "Rocket Raccoon"
+   |  "Yondu"
+   |  "Cyclops"
+   |  "Jean Grey"
+   |  "Professor X"
+   |  "Beast"
+   |  "Storm"
+
+
+    MUST BE ADDED  (they are already in atleast 1 team)
+
+   |  "Elektra" (villain)               5
+   |  "Rogue"                           4
+   |  "Havok"                           3
+   |  "Ice Man"                         3
+   |  "Human Torch 2"                   3
+   |  "Angel"                           2
+   |  "Colossus"                        2
+   |  "Psylocke"                        2
+   |  "Moonstone"                       2
+   |  "Valkyrie"                        2
+   |  "Adam Warlock"                    2
+   |  "Scientist Supreme (villain)"
+   |  "Maria Hill"
+   |  "Nick Fury"
+   |  "Hawkeye 2"
+   |  "Beta Ray Bill"
+   |  "Nightcrawler"
+   |  "Punisher"
+   |  "Gambit"
+
+   |  "Spiderwoman"                     6
+   |  "Sentry"                          5
+   |  "Tigra"                           5
+   |  "Hercules"  (villain)             4
+   |  "Black Knight"  (villain)         4
+   |  "Dr. Voodoo"                      4
+   |  "Crsytal"                         3
+   |  "Quake"                           3
+   |  "Quasar"                          3
+   |  "Nova"                            3
+   |  "Wong"                            3
+   |  "White Tiger"                     3
+   |  "Daimon Hellstrom" (villain)      3
+   |  "Power Woman"                     3
+   |  "X-23"                            2
+   |  "Nova 2"                          2
+   |  "Kitty Pryde"                     2
+   |  "Lockjaw"                         2
+   |  "Starhawk"                        2
+   |  "Hulk 2"                          2
+   |  "Pyro"  (villain)                 2
+   |  "Shuri"                           2
+   |  "Boomerang" (villain)             2
+   |  "Shocker" (v)                     2
+   |  "Whiplash" (v)                    2
+   |  "Gwenpool"                        2
+   |  "Skaar"                           2        
+   |  "Hulkling"                        2
+   |  "Speed"                           2
+   |  "Wiccan"                          2   
+   |  "Black Cat" (villain)             2
+   |  "Cable" (villain)                 2
+   |  "Ghost"  (villain)                2
+   |  "Moondragon"                      2
+   |  "Satana" (v)                      2
+   |  "Shang-Chi"                       2
+   |  "Absorbing Man"  (v)         (many)
+   |  "Gorgon"                  
+   |  "Agent Coulson"
+   |  "Captain Mar-Vell"
+   |  "Madame Web"
+   |  "Blade"
+   |  "Sandman"  (villain)
+   |  "Vulcan"
+   |  "Banshee"
+   |  "Magik"
+   |  "Jubilee"
+   |  "Madame Hydra"  (v)
+   |  "Viper"  (v)
+   |  "Bishop"
+   |  "Fantomax"
+   |  "Vulcan"
+   |  "Banshee"
+   |  "Polaris"
+   |  "Warpath"
+   |  "Karnak"
+   |  "Cloak"
+   |  "Dagger"
+   |  "Triton"
+   |  "Mastermind" (v)
+   |  "Toad"  (villain)
+   |  "Maker"  (villain)
+   |  "Blob"  (villain)
+   |  "Maximux" (v)
+   |  "Electro" (v)
+   |  "Rhino" (villain)
+   |  "Vulture" (villain)
+   |  "Hopglobin" (villain)
+   |  "Kraven the Hunter"  (villain)
+   |  "Crimson Cowl" (villain)
+   |  "Executioner" (villain)
+   |  "Hyperion"  (villain)
+   |  "Scorpion" (v)
+   |  "Klaw" (v)
+   |  "Man-Ape" (v)
+
+
+    
+    TO BE ADDED
+
+   |  "Ancient One"
+   |  "Killmonger"
+   |  "Okoye"
+   |  "Odin"
+   |  "Heimdall"
+   |  "Sif"
+   |  "Spider-Gwen"
+   |  "Spiderman (2099)"
+   |  "Spiderman-Noir"
+   |  "Scarlet Spider"
+   |  "Ka-Zar"
+   |  "Sunfire"
+   |  "Omega Sentinel"
+   |  "Domino"
+   |  "Rescue"
+   |  "Titanium Man" (v)
+   |  "Yellowjacket" (v)
+   |  "Angela"  (villain)
+   |  "Iron Monger" (villain)
+   |  "Prowler" (villain)
+   |  "The Hood" (villain)
+   |  "Lizard" (villain)
+   |  "Hela"  (villain)
+   |  "Mysterio"  (villain)
+
+
+  code |  "      name"
+------+---------------------
+ avng |  "Avengers"
+ xmen |  "X - Men"
+ fnt4 |  "Fantastic Four"
+ ihmn |  "Inhumans"
+ gotg |  "Guardians of Galaxy"
+ navg |  "New Avengers"
+ brhd |  "Brotherhood"
+ illu |  "Illuminati"
+ savg |  "Secret Avengers"
+ shld |  "S.H.I.E.L.D."
+ dfdr |  "Defenders"
+ tndr |  "Thunderbolts"
+ cbal |  "Cabal"
+ hdra |  "Hydra"
+ hand |  "Hand"
+ wcav |  "West Coast Avengers"  
+ davg |  "Dark Avengers"
+ mavg |  "Mighty Avengers"
+ avud |  "Avengers Unity Division"
+ ldlb |  "Lady Liberators"
+ hfhr |  "Heroes For Hire"
+ a.im |  "A.I.M."
+ msev |  "Masters Of Evil"
+ lgna |  "Legion Accursed"        
+ aavg |  "Astonishing Avengers"   (del)
+ udgr |  "Underground"            (del)
+
+
+ rdsl	|  "Red Skull"
+ drdm	|  "Dr. Doom"
+ tnos	|  "Thanos"
+ ultn	|  "Ultron"
+ loki	|  "Loki"
+ mgnt	|  "Magneto"
+ ggbl	|  "Green Goblin"
+ glts	|  "Galactus"
+ apcl	|  "Apocalypse"
+ kang	|  "Kang Conqueror"
+ kgpn	|  "Kingpin"
+ drmm	|  "Dormammu"
+ venm	|  "Venom"
+ mdrn	|  "Mandarin"
+ mpst	|  "Mephisto"
+ sbrt	|  "Sabretooth"
+ docp	|  "Dr. Octopus"
+ brzm	|  "Baron Zemo"
+ dpnx	|  "Dark Phoenix"
+ ledr	|  "The Leader"
+ mstq	|  "Mystique"
+ mdok	|  "M.O.D.O.K."
+ nhls	|  "Annihilus"
+ abmn	|  "Abomination"
+ jgnt	|  "Juggernaut"
+ ssrl	|  "Super Skrull"
+ stnl	|  "Sentinel"
+ blsy	|  "Bullseye"
+ crng	|  "Carnage"
+ onsl	|  "Onsluaght"
+ crbn	|  "Crossbones"
+ ench	|  "Enchantress"
+ ronn	|  "Ronan"
+ wqen	|  "White Queen"
+ arzl	|  "Arnim Zola"
+ brmd	|  "Baron Mordo"
+ srtr	|  "Surtur"
+ tkmt	|  "Taskmaster"
+ gdmt	|  "Grandmaster"
+ clct	|  "Collector"
+ | "Nebula"
+ | "Namor"
+
+
+RACES MAY BE ADDED
+
+Kree
+Skrull
+Inhuman
+Asgardian
+Celestials
+Elders of Universe
+Eternals
+
+
+TEAMS MAY BE ADDED IN FUTURE
+
+Black Order         (few)
+Cosmic Avengers     (few)
+Young Avengers      (few)
+Champions           (few)
+
+
+EVENTS MAY BE ADDED IN FUTURE
+
+The Axis
+Operation Galactic Storm 
+
+CHARACTERS TO BE ADDED IN FUTURE
+
+Lady Death
+In-Betweener
+Champion
+Gardener
+
+EQUIPMENT TO BE ADDED IN FUTURE
+
+Silver board
+Teleportation Chair
+Infinity Gems x 6
+Infinity Gauntlet
+
+LOCATIONS TO BE ADDED IN FUTURE
+
+The Garden
+Knowhere

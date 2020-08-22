@@ -19,10 +19,12 @@ const StorySchema = new mongoose.Schema({
 		type: String,
 		trim: true,
 	},
+	parts: [Number],
 	hero: [String],
 	villain: [String],
 	char: [String],
 	equip: [String],
+	team: [String],
 	location: [String],
 	data : [{
 		hindi: String,

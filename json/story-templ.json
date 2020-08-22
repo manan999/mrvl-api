@@ -1,0 +1,331 @@
+{
+    "_id": {
+        "$oid": "5f40a17968d55309ba4bddd3"
+    },
+    "rank": {
+        "$numberInt": "1"
+    },
+    "name": "Infinity Gauntlet",
+    "link": "https://raw.githubusercontent.com/manan999/images/master/wp/ig.webp",
+    "descr": "",
+    "parts": [24,48],
+    "hero" : ["Silver Surfer", "Drax"],
+    "villain" : ["Thanos", "Collector", "Grandmaster"],
+    "char" : ["Lady Death", "In-Betweener", "Champion", "Gardener"],
+    "equip" : ["Sliver Board", "Teleportation Chair", "Soul Gem", "Power Gem", "Mind Gem", "Reality Gem", "Space Gem", "Time Gem"],
+    "location" : ["The Garden", "Knowhere"],
+    "data" : [
+        {   "page": 1,
+            "hindi": "Ye kahani shuru hoti hai <b>Silver Surfer</b> ke sath. Vo apni rozmara ki zindagi se thak chuka hota hai. Aise me vo kisi veeran planet pe jakar kuch der so jata hai. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": [],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 2,
+            "hindi": "jaha use sapna aata hai lady death ke bare me jo ki kisi imbalance ke bare me baat kar rahi hai...vo lady death kisi evil spirit ko jagane wali hoti hai...lekin isse pehle silver surfer kuch dekh pata vo jag jata hai...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": [],
+                "team": [],
+                "char": ["Lady Death"],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 3,
+            "hindi": "isse pehle vo samajh pata ki kya ye sapna tha, aur tha to iska arth kya tha? usse pehle hi uski mulakat hoti hai thanos se...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 4,
+            "hindi": "thanos batata hai ki lady death(khud maut ka swarup) ko lagta hai duniya imbalanced hai aur ye duniya ki sabse badi problem hai...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Lady Death"],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 5,
+            "hindi": "vo earth ka example deta hai ki population bahut zyada hai and ek time pe sadhan itne kam ho jayenge ki kisi ke liye kuch nahi bachega...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 6,
+            "hindi": "jab silver surfer puchta hai ki uske paas kya solution hai to thanos bolta hai....50% logo ko maar do...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 7,
+            "hindi": "ye sunkar silver surfer ghabra jata hai and thanos pe attack kar deta hai...vo apni cosmic powers se uski teleoprtation chair ko blast kar deta hai...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": ["Teleporatation Chair", "Silver Board"],
+                "location": []
+            }   
+        },
+        {   "page": 8,
+            "hindi": "silver surfer janta tha ki thanos ek shaktishali dushman hai...parantu jab vo uski laash dekhta hai to chakit ho jata hai lekin aakhir me use yakeen ho jata hai ki thanos mar chuka hai....",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 9,
+            "hindi": "parantu asliyat me ye sirf thanos ka plan tha jisse silver surfer uske raste se hat jaye kyonki ab vo kuch aur bada aur khatarnak plan kar raha tha....",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": ["Silver Surfer"],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 10,
+            "hindi": "jab death thanos ko bulakar puchti hai ki jo usne aadhe brahmand ki maut ka vada kiya tha vo abhi tak pura kyu nahi hua...to thanos jawab deta hai ki kisi aam jeev ko ye karne me kai sadiyan lag jayengi but kyonki vo shatir thanos hai vo ye kaam easily kar sakta hai agar vo haasil kar le &quot;Infinity Gems&quot;",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Lady Death"],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 11,
+            "hindi": "Pehla infinity gem (Soul Gem) ek aise shaktishali prani &quot;In-Betweener&quot; ke paas tha jo ki 2 dhaarna (order & chaos) ke beech kaid tha....",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["In-Betweener"],
+                "equip": ["Soul Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 12,
+            "hindi": "thanos se use azad karaya and apni shatirta se uska Soul Gem cheen liya...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["In-Betweener"],
+                "equip": ["Soul Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 13,
+            "hindi": "dusra gem &quot;Champion&quot; naamke praani ke paas tha jo ki itna taakatvar tha ki vo kabhi koi ladai nahi hara tha...",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Champion"],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 14,
+            "hindi": "parantu uske isi ghamand ka fayda uthate hue thanos use maar deta hai and uska &quot;Power Gem&quot; haasil kar leta hai. ab thanos tippani karta hai ki in gems ki power aseemit hai isiliye inka naam &quot;Infinity Gems&quot; hona chahiye. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Champion"],
+                "equip": ["Power Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 15,
+            "hindi": "teesra gem ek &quot;Gardener&quot; naam ke praani ke paas tha. .jisne &quot;Time Gem&quot; use karke apne liye ek planet banaya tha, &quot;The Garden&quot; jo ki bahut hi khubsurat paudho se bana tha. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Gardener"],
+                "equip": [],
+                "location": ["The Garden"]
+            }   
+        },
+        {   "page": 16,
+            "hindi": "parantu kutil thanos ki baato me akar gardener us gem par se kaabu kho betha aur uski taakat ko na sambhal paate hue khud hi khatam ho gaya. thanos ne teesra gem bhi haasil kar liya. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Gardener"],
+                "equip": ["Time Gem"],
+                "location": ["The Garden"]
+            }   
+        },
+        {   "page": 17,
+            "hindi": "chautha gem &quot;Runner&quot; ke paas tha jo ki khudko is bramhand ka sabse tez jeev samajhta tha. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Runner"],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 18,
+            "hindi": "thanos ne use bataya ki vo apne gem ki asli takat ko jaanta bhi nahi hai aur vo sirf isiliye tez kyonki uska stone uski ek soch par space me use travel kara deta tha. ant me thanos time gem use kar leta hai",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Runner"],
+                "equip": ["Time Gem", "Space Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 19,
+            "hindi": "&quot;Space gem&quot; haasil karne ke baad thanos firse time gem use karta hai and is baar runner ko bacha bana deta hai..aur is bache ko vo lekar jata hai. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": ["Runner"],
+                "equip": ["Time Gem", "Space Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 20,
+            "hindi": "&quot;Collector&quot; ke paas..ek aisa praani jisse sirf dilchasp chhezo ka sangreh karna pasand hai. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos", "Collector"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": ["Knowhere"]
+            }   
+        },
+        {   "page": 21,
+            "hindi": "thanos use baby runner offer karta hai uske naayab jeevon ke collection ke liye and badle me collector uske hawale &quot;Reality Gem&quot; kar deta hai. ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos", "Collector"],
+                "team": [],
+                "char": ["Runner"],
+                "equip": ["Reality Gem"],
+                "location": ["Knowhere"]
+            }   
+        },
+        {   "page": 22,
+            "hindi": "paancho infinity gems lekar thanos jata hai &quot;Grandmaster&quot; ke paas, ek aisa praani jisse daanv lagakar khel khelne me bahut maza aata hai.",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos", "Grandmaster"],
+                "team": [],
+                "char": [],
+                "equip": [],
+                "location": []
+            }   
+        },
+        {   "page": 23,
+            "hindi": "grandmaster apna 1 aur thanos 5 infinity gems daanv par laga deta hai. parantu thanos apni kutilta se grandmaster ko usi ke khel me harake apna chhata gem bhi haasil kar leta.",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos", "Grandmaster"],
+                "team": [],
+                "char": [],
+                "equip": ["Mind Gem"],
+                "location": []
+            }   
+        },
+        {   "page": 24,
+            "hindi": "ab thanos ke pas sabhi 6 infinity gems the. mind, space, reality, time, soul aur power sab uske adheen the ",
+            "english": "Our story begins with <b>Sliver Surfer</b>. He was very tired of his daily life. Thus, he decided to go on an isolated barren planet and get some rest",
+            "img": "https://raw.githubusercontent.com/manan999/images/master/wp/cs_w.webp",
+            "links": {
+                "hero": [],
+                "villain": ["Thanos"],
+                "team": [],
+                "char": [],
+                "equip": ["Mind Gem", "Soul Gem", "Reality Gem", "Power Gem", "Space Gem", "Time Gem"],
+                "location": []
+            }   
+        }
+    ]
+}
