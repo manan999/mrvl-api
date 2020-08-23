@@ -11,6 +11,7 @@
     "parts": [0,24],
     "hero" : ["Silver Surfer", "Drax"],
     "villain" : ["Thanos", "Collector", "Grandmaster"],
+    "team" : [],
     "char" : ["Lady Death", "In-Betweener", "Champion", "Gardener"],
     "equip" : ["Sliver Board", "Teleportation Chair", "Soul Gem", "Power Gem", "Mind Gem", "Reality Gem", "Space Gem", "Time Gem"],
     "location" : ["The Garden", "Knowhere"],
